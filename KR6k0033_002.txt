@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:21.724497
+#+DATE: 2015-08-30 20:42:26.252535
 #+TITLE: 根本說一切有部尼陀那目得迦
 #+PROPERTY: CBETA_ID T24n1452
 #+PROPERTY: ID KR6k0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1452
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0033_T_002-0419c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《根本說一切有部尼陀那》卷第二¶
+《根本說一切有部尼陀那》卷第二¶
 ¶
 大唐三藏法師義淨奉　制譯¶
 

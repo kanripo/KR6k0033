@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:21.800267
+#+DATE: 2015-08-30 20:42:26.341037
 #+TITLE: 根本說一切有部尼陀那目得迦
 #+PROPERTY: CBETA_ID T24n1452
 #+PROPERTY: ID KR6k0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1452
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0033_T_005-0432a> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《根本說一切有部尼陀那》卷第五¶
+《根本說一切有部尼陀那》卷第五¶
 ¶
 大唐三藏法師義淨奉　制譯¶
 
