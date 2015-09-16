@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部尼陀那目得迦
+#+DATE: 2015-08-30 20:42:22.259143
+#+PROPERTY: JUAN 0
